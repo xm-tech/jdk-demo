@@ -1,0 +1,2 @@
+- jdk features tastes
+- some features only valid on jdk 11
