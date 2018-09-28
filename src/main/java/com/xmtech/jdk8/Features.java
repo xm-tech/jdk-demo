@@ -10,6 +10,8 @@ public class Features {
         nums.forEach(e -> {
             out(e);
         });
+        // UnsupportedOperation
+        // nums.add(4);
     }
 
     public void testStream() {
@@ -43,6 +45,6 @@ public class Features {
     public static void main(String[] args) {
         Features e = new Features();
         e.testLambda();
-        e.testStream();
+//        e.testStream();
     }
 }
