@@ -2,4 +2,4 @@
 - modules
     - jdk8
     - jdk11
-- the top pom.xml defines all the dependencies, submodule only refrence from the top pom.xml
+- the top level pom.xml file defines the all dependencies, submodule only refrence from this file
