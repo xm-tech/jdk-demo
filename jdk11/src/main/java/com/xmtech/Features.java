@@ -1,4 +1,4 @@
-package com.xmtech.jdk8;
+package com.xmtech;
 
 import java.util.List;
 
@@ -45,6 +45,6 @@ public class Features {
     public static void main(String[] args) {
         Features e = new Features();
         e.testLambda();
-//        e.testStream();
+        e.testStream();
     }
 }

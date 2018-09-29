@@ -1,0 +1,5 @@
+- places to taste features of diffrent jdk level's
+- modules
+    - jdk8
+    - jdk11
+- the top pom.xml defines all the dependencies, submodule only refrence from the top pom.xml
