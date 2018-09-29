@@ -10,7 +10,6 @@ public class Lamabda {
         new Thread(task).start();
     }
 
-
     public void out(Object obj) {
         System.out.println(obj);
     }
@@ -18,7 +17,6 @@ public class Lamabda {
     public static void main(String[] args) {
         Lamabda e = new Lamabda();
         e.test();
-//        e.testStream();
     }
 
 
